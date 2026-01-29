@@ -1,0 +1,4 @@
+user_id,age,email,signup_date,country,account_balance
+101,25,john.doe@example.com,2023-01-15,US,1200.50
+102,30,jane.smith@example.com,2023-02-10,UK,850.00
+104,45,alice.wonder@example.com,2022-11-05,UNKNOWN,300.00
